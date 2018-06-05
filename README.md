@@ -29,7 +29,7 @@ Use it in your template:
 ```
 
 
-### The example for `data` 
+### The example for `style` 
 
 ```css
 .tooltipped {
