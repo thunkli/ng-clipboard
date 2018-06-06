@@ -3,7 +3,7 @@ An clipBoard directive for Angular.
 
 ## Usage
 
-In order to use the ng-menu-aim you have to include/import it into your application:
+In order to use the ng-clipboard you have to include/import it into your application:
 
 ### Installation
 
